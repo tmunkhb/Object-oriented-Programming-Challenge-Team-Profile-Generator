@@ -4,19 +4,19 @@
 Focus of this application was to build node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person. Requirements of this application includes creating constructors and classes to create employee objects. Total of four classes were created under Employee, Manager, Engineer and Intern. In addition to the classes, four tests that correspondences to each class were tested using jest. Lastly, node.js library Inquirer was used.
 
 ## Table of Contents
-[User Story.] (#user)
-[Acceptance Criteria.] (#accept)
-[Screenshot.] (#screen)
-[Walkthrough Video.] (#walk)
-[Credits.] (#credit)
+[User Story] (#User Story)
+[Acceptance Criteria] (#Acceptance Criteria)
+[Screenshot] (#Screenshot)
+[Walkthrough Video] (#Walkthrough Video)
+[Credits] (#Credit)
 
-<a name="user"></a>
+
 ## User Story
 AS A manager
 I WANT to generate a webpage that displays my team's basic info
 SO THAT I have quick access to their emails and GitHub profiles
 
-<a name="accept"></a>
+
 ## Acceptance Criteria
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for my team members and their information
@@ -36,14 +36,14 @@ THEN I am prompted to enter the intern’s name, ID, email, and school, and I am
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
-<a name="screen"></a>
+
 ## Screenshot
 ![MyTeam](https://user-images.githubusercontent.com/109834827/194978715-03551d2a-0ff6-455e-b03b-47feac1ea7be.PNG)
 
-<a name="walk"></a>
+
 ## Walkthrough video demonstration
 
-<a name="credit"></a>
+
 ## Credits
 - Trilogy Education Services, LLC: https://www.trilogyed.com/
 - Bootstrap: https://getbootstrap.com/
