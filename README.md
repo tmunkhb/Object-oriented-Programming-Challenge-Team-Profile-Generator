@@ -43,7 +43,7 @@ THEN I exit the application, and the HTML is generated
 
 
 ## Walkthrough video demonstration
-
+https://www.youtube.com/watch?v=d7OyK9wVo5U
 
 ## Credits
 - Trilogy Education Services, LLC: https://www.trilogyed.com/
