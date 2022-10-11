@@ -3,12 +3,13 @@
 ## Description
 Focus of this application was to build node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person. Requirements of this application includes creating constructors and classes to create employee objects. Total of four classes were created under Employee, Manager, Engineer and Intern. In addition to the classes, four tests that correspondences to each class were tested using jest. Lastly, node.js library Inquirer was used.
 
-## Table of Contents
-[User Story] (#User Story)
-[Acceptance Criteria] (#Acceptance Criteria)
-[Screenshot] (#Screenshot)
-[Walkthrough Video] (#Walkthrough Video)
-[Credits] (#Credit)
+  ## Table of Contents
+  - [User Story](#user)
+  - [Acceptance Criteria](#acceptanceCriteria)
+  - [Screenshot](#screenshot)
+  - [Walkthrough](#walkthrough)
+  - [Creudts](#credits)
+
 
 
 ## User Story
