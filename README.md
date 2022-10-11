@@ -5,9 +5,9 @@ Focus of this application was to build node.js command-line application that tak
 
   ## Table of Contents
   - [User Story](#user)
-  - [Acceptance Criteria](#acceptanceCriteria)
+  - [Acceptance Criteria](#acceptance)
   - [Screenshot](#screenshot)
-  - [Walkthrough](#walkthrough)
+  - [Walkthrough Video](#walkthrough)
   - [Creudts](#credits)
 
 
