@@ -8,7 +8,7 @@ Focus of this application was to build node.js command-line application that tak
   - [Acceptance Criteria](#acceptance)
   - [Screenshot](#screenshot)
   - [Walkthrough Video](#walkthrough)
-  - [Creudts](#credits)
+  - [Credits](#credits)
 
 
 
